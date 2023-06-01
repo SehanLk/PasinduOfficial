@@ -8,9 +8,9 @@
 
  It is supplied in the hope that it may be useful.
 
- * @project_name : Secktor-Md
+ * @project_name : Dark-SamuZa
 
- * @author : SamPandey001 <https://github.com/SamPandey001>
+ * @author : CyberSamuZa <https://github.com/CyberSamuZa>
 
  * @description : Secktor,A Multi-functional whatsapp bot.
 
